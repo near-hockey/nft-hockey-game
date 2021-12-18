@@ -1,0 +1,12 @@
+/home/evheniy/nft-hockey-game/src/nft_contract/target/wasm32-unknown-unknown/release/deps/borsh-83f2b19893a0cceb.rmeta: /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/home/evheniy/nft-hockey-game/src/nft_contract/target/wasm32-unknown-unknown/release/deps/libborsh-83f2b19893a0cceb.rlib: /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/home/evheniy/nft-hockey-game/src/nft_contract/target/wasm32-unknown-unknown/release/deps/borsh-83f2b19893a0cceb.d: /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs /home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs
+
+/home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/lib.rs:
+/home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/mod.rs:
+/home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/de/hint.rs:
+/home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema.rs:
+/home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/schema_helpers.rs:
+/home/evheniy/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.8.1/src/ser/mod.rs:
